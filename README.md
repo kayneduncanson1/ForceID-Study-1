@@ -1,5 +1,5 @@
 # ForceID-Study-1
-Repository for the article, 'Deep Metric Learning for Scalable Gait Based Person Re-identification Using Force Platform Data'.
+Repository for the article, 'Deep Metric Learning for Scalable Gait Based Person Re-identification Using Force Platform Data'. Currently in development, content to be added shortly.
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 
